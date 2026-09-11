@@ -1,0 +1,10 @@
+﻿PS D:\Vi\New folder\mcino-Introduction-to-Git-and-GitHub> git checkout main
+M       simple-interest.sh
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+PS D:\Vi\New folder\mcino-Introduction-to-Git-and-GitHub> git merge bug-fix-typo
+Updating ad95b0a..bcca876
+Fast-forward
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+PS D:\Vi\New folder\mcino-Introduction-to-Git-and-GitHub>
